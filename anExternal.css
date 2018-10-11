@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    font: 40px arial, sans-serif;
+}
+p {
+    font: italic bold 12px/30px Georgia, serif;
+}
+h3 {
+    border: 4px dotted blue;
+}
+
