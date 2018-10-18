@@ -1,0 +1,74 @@
+body{
+
+    background-image: url('leaves-pattern.png');
+}
+
+p{
+    font-family: "Arial"; color:white; font-weight: bold;
+}
+
+h2{
+    color: #FFBC00;
+    font-size: 40px; font-family: "Passion One";
+    margin-bottom: 0px; 
+    float:middle;
+    text-align: center;
+}
+
+li{
+    float: middle;
+    background-color: wheat;
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+}
+
+#Header h1{
+    font-size: 60px; font-family: "Passion One"; color: #FFBC00; font-weight: bold;
+}
+
+
+ul{
+    list-style-type:none;
+    padding-left: 0px;
+    float: middle;
+}
+a{
+    color: white; font-weight: bold; font-size: 24px;
+}
+
+
+label{
+    color: red; font-size: 20px;
+}
+
+fieldset{
+    color: gray; font-weight: bold; font-size: 30px;
+}
+
+textarea{
+    background-color:ivory;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:dotted 5px black;
+    text-align: center;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+input{
+    float: middle;
+}
+
+legend{
+    float: middle;
+    color:indianred;
+}
